@@ -1,0 +1,17 @@
+
+/* This is a comment in CSS. This is an example of an id style. Id styles are usually only used once (starts with a #) */
+#mainBody {
+	background-color: #F7F4A7;
+}
+
+/* This is a comment in CSS. This is an example of an class style. Class styles are used multiple times (starts with a .) */
+
+.gils {
+	font-family: Gill Sans;
+}
+
+span
+	{color:green;
+
+}
+
